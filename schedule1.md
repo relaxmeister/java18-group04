@@ -8,7 +8,7 @@
 7. 
 8. 
 
-### Schedule 6th december 2019 - 13.00-15.00
+### Schedule 5th december 2019 - 13.00-15.00
 
 
 | Time        |  Student/Team | 
