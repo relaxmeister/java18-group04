@@ -1,7 +1,7 @@
 ### Group 04 - Members:
 1. Marcus Ström (marcstro)
 2. Mikael F. (Crezze)
-3. 
+3. Niklas Helander (nikalsh)
 4. 
 5. 
 6. 
@@ -20,4 +20,4 @@
 | 14.00-14.10 |               |
 | 14.15-14.25 |               |
 | 14.30-14.40 |               |
-| 14.45-14.55 |               |
+| 14.45-14.55 |    Team 3     |
