@@ -1,12 +1,12 @@
 ### Group 04 - Members:
-1. Marcus Ström (marcstro)
-2. Mikael F. (Crezze)
-3. Niklas Helander (nikalsh)
-4. Kenny Hoang (Flaakan ) / Johnny (keho1801)
-5. Jonas Hallström (relaxmeister)
-6. 
-7. 
-8. 
+Team 1. Marcus Ström (marcstro)
+Team 2. Mikael F. (Crezze)
+Team 3. Niklas Helander (nikalsh)
+Team 4. Kenny Hoang (Flaakan ) / Johnny (keho1801)
+Team 5. Jonas Hallström (relaxmeister)
+Team 6. 
+Team 7. 
+Team 8. 
 
 ### Schedule 5th december 2019 - 13.00-15.00
 
