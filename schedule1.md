@@ -1,6 +1,6 @@
 ### Group 04 - Members:
-1.  Rafael Silva (Example)
-2. 
+1. Marcus Ström (marcstro)
+2. Mikael F. (Crezze)
 3. 
 4. 
 5. 
