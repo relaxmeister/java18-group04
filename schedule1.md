@@ -2,7 +2,7 @@
 1. Marcus Ström (marcstro)
 2. Mikael F. (Crezze)
 3. Niklas Helander (nikalsh)
-4. 
+4. Kenny Hoang (Flaakan ) / Johnny (keho1801)
 5. 
 6. 
 7. 
@@ -13,11 +13,11 @@
 
 | Time        |  Student/Team | 
 |-------------|:-------------:|
-| 13.00-13.10 |    Team 2     |
-| 13.15-13.25 | Marcus Strom  |
+| 13.00-13.10 | Team 2        |
+| 13.15-13.25 | Team 1        |
 | 13.30-13.40 |               |
 | 13.45-13.55 |               |
 | 14.00-14.10 |               |
 | 14.15-14.25 |               |
 | 14.30-14.40 |               |
-| 14.45-14.55 |    Team 3     |
+| 14.45-14.55 |  Team 3       |
