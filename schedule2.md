@@ -4,7 +4,7 @@
 3. Niklas Helander (nikalsh)
 4. Kenny Hoang (Flaakan ) / Johnny (keho1801)
 5. Jonas Hallström (relaxmeister)
-6. 
+6. Jesper C. (Jeppe90)
 7. 
 8. 
 
